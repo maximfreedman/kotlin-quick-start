@@ -1,4 +1,4 @@
-package jv.core.intro;
+package jv.base.syntax.hello;
 
 public class Main {
     public static void main(String[] args) {
